@@ -1,0 +1,19 @@
+body{
+    background-color: rgb(255, 249, 224);
+}
+
+a:link{color: cornflowerblue;} 
+a:visited{color: teal;} 
+a:active{color: tomato;} 
+
+p{
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.b1{
+    background-color: rgb(212, 229, 218);
+    border-radius: 20px;
+    border: dashed 2px black;
+}
